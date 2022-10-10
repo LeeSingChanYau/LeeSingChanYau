@@ -27,6 +27,3 @@ Welcome to my profile! I'm a fullstack engineer that likes to create solutions. 
 
 ### 📺 Latest Projects
 
-
-
-[website]: https://leesingchan.com
